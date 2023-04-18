@@ -1,0 +1,6 @@
+{
+"msbuid" : 
+{
+"msbuildPath" : "C:\Program Files\dotnet\dotnet.exe"
+}
+}
